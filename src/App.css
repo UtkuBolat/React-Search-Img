@@ -1,0 +1,25 @@
+body{
+  background-color:   rgb(216, 216, 216);
+}
+.searchBox{
+  border: 5px solid lightgray;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 20px;
+}
+.searchBox form{
+  text-align: center;
+}
+.searchBox input{
+  border: 3px solid blue;
+  padding: 15px 50px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px ;
+}
+.image{
+  columns: 250px 5;
+  column-gap: 150px;
+}
+.imageList{
+  width: 100%;
+}
